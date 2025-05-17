@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  benim-uygulamam:
+    image: my-enacap:latest  # Oluşturduğunuz imajın adını ve etiketini buraya yazın
+    ports:
+      - "5000:5000"            # Host makinedeki 8080 portunu konteynerdeki 80 portuna eşler (web uygulamaları için)
+    environment:
+      - ASPNETCORE_URLS=http://*:5000
