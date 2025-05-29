@@ -48,22 +48,20 @@ Enacap/
     └── App.jsx
 ```
 
-📌 Özellikler
-✅ Gerçek Zamanlı Fiyat Takibi: Binance API ile kripto paraların anlık değerleri listelenir.
+## 📌 Özellikler
 
-🔍 Coin Detay Sayfası: Her coin için fiyat, hacim gibi detaylara ulaşabilirsiniz.
+- ✅ **Gerçek Zamanlı Fiyat Takibi**: Binance API ile kripto paraların anlık değerleri listelenir.
+- 🔍 **Coin Detay Sayfası**: Her coin için fiyat, hacim gibi detaylara ulaşabilirsiniz.
+- ➕ **Yeni Coin Ekleme**: Kullanıcılar yeni kripto paraları sisteme kaydedebilir.
+- 📱 **Mobil Uyumlu Tasarım**: Tailwind CSS sayesinde tüm cihazlarla uyumlu arayüz.
+- 🧱 **Katmanlı Mimari**: Kodun sürdürülebilirliğini sağlayan temiz yapı.
+- 🐳 **Docker Desteği**: Taşınabilir ve kolay dağıtılabilir mimari.
+- ☁️ **AWS EC2 Üzerinde Yayın**: Gerçek bir sunucu ortamında barındırma.
 
-➕ Yeni Coin Ekleme: Kullanıcılar yeni kripto paraları sisteme kaydedebilir.
+## 👨‍💻 Geliştirici
 
-📱 Mobil Uyumlu Tasarım: Tailwind CSS sayesinde tüm cihazlarla uyumlu arayüz.
-
-🧱 Katmanlı Mimari: Kodun sürdürülebilirliğini sağlayan temiz yapı.
-
-🐳 Docker Desteği: Taşınabilir ve kolay dağıtılabilir mimari.
-
-☁️ AWS EC2 Üzerinde Yayın: Gerçek bir sunucu ortamında barındırma.
-
-👨‍💻 Geliştirici
-Oğuzhan Aydoğan
-📚 Ankara Üniversitesi – Bilgisayar Mühendisliği 3. Sınıf
-🎓 BLM3522 Bulut Bilişim ve Uygulamaları Dersi Vize Projesi
+**Oğuzhan Aydoğan**  
+📚 Ankara Üniversitesi – Bilgisayar Mühendisliği 3. Sınıf  
+🎓 BLM3522 Bulut Bilişim ve Uygulamaları Dersi Vize Projesi  
+📧 oguzhan@example.com  
+🌍 Türkiye, Ankara
