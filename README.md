@@ -62,6 +62,5 @@ Enacap/
 
 **Oğuzhan Aydoğan**  
 📚 Ankara Üniversitesi – Bilgisayar Mühendisliği 3. Sınıf  
-🎓 BLM3522 Bulut Bilişim ve Uygulamaları Dersi Vize Projesi  
-📧 oguzhan@example.com  
+🎓 BLM3522 Bulut Bilişim ve Uygulamaları Dersi Vize Projesi
 🌍 Türkiye, Ankara
